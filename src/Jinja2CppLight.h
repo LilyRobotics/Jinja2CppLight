@@ -18,6 +18,8 @@
 #include <vector>
 #include <stdexcept>
 
+#include "stringhelper.h"
+
 #define VIRTUAL virtual
 #define STATIC static
 
